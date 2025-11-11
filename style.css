@@ -1,13 +1,13 @@
 body {
   font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
   margin: 0;
-  background-color: #fe0303;
+  background-color: #fcfafa;
   color: #222;
 }
 
 header {
   text-align: center;
-  background-color: #ffffff;
+  background-color: #f50101;
   color: white;
   padding: 20px;
 }
