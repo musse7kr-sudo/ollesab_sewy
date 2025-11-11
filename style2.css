@@ -1,0 +1,26 @@
+.main {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    font-family: 'Comic Sans', sans-serif;
+    width: 60%;
+}
+
+.rad {
+    display: inline-block;
+    width: 300px;
+    padding: 5px;
+    margin: 2px;
+    background: rgb(216, 216, 216);
+}
+
+img {
+    height: 100px;
+    margin-left: 100px;
+    margin-right: auto;
+}
+
+.rad div p:first-child {
+    font-weight: bold;
+    background: rgb(182, 182, 182);
+}
